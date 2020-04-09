@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 //Change1 from branch 1
 //Change2 from branch 1
+//Change1 from branch 1 's new Branch
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.0"
